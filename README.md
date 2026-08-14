@@ -51,12 +51,6 @@ Primary dataset: **Pfam Protein Family Classification Dataset**
 * 62 protein-family classes
 * Suitable for multiclass classification
 
-Alternative sources:
-
-* UniProt/Swiss-Prot
-* CAFA
-* Gene Ontology
-
 ## Features
 
 * Amino-acid composition
