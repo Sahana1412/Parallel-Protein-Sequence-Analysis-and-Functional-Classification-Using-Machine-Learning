@@ -111,14 +111,10 @@ The project compares:
 * Different CPU thread counts
 * Different dataset sizes
 
-## Future Extensions
+## Future Extensions 
 
 * ProtT5/ESM embeddings
 * Gene Ontology prediction
 * CNN/LSTM/Transformer models
 * MPI-based distributed processing
 * Cloud GPU deployment
-
-## Final Objective
-
-Develop an **HPC-accelerated machine learning pipeline for protein sequence classification** and determine how effectively OpenMP and CUDA improve computational performance while maintaining ML accuracy.
