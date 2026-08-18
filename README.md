@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="images/option1_workflow.png" alt="Workflow" width="600">
+  <img src="option1_workflow.png" alt="Workflow" width="600">
 </p>
 
 ```text
