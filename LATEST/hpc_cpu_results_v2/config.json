@@ -1,0 +1,20 @@
+{
+    "dataset": "TEDBench/ted",
+    "train": 5000,
+    "validation": 1500,
+    "test": 1500,
+    "esm_model": "facebook/esm2_t6_8M_UR50D",
+    "sequence_features": 320,
+    "structural_features": 28,
+    "combined_features": 348,
+    "classifier": "2-layer MLP",
+    "hidden_layers": [
+        256,
+        128
+    ],
+    "epochs": 40,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "feature_extraction_esm_seconds": 1094.6683503999957,
+    "feature_extraction_structure_seconds": 280.82494069999666
+}
